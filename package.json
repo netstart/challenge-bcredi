@@ -8,13 +8,13 @@
     "node_modules"
   ],
   "dependencies": {
-    "@angular/common": "8.2.4",
-    "@angular/compiler": "8.2.4",
+    "@angular/common": "8.2.14",
+    "@angular/compiler": "8.2.14",
     "@angular/core": "8.2.4",
-    "@angular/forms": "8.2.4",
-    "@angular/platform-browser": "8.2.4",
-    "@angular/platform-browser-dynamic": "8.2.4",
-    "@angular/router": "8.2.4",
+    "@angular/forms": "8.2.14",
+    "@angular/platform-browser": "8.2.14",
+    "@angular/platform-browser-dynamic": "8.2.14",
+    "@angular/router": "8.2.14",
     "@fortawesome/angular-fontawesome": "0.5.0",
     "@fortawesome/fontawesome-svg-core": "1.2.22",
     "@fortawesome/free-solid-svg-icons": "5.10.2",
@@ -32,11 +32,11 @@
     "rxjs": "6.5.2",
     "swagger-ui": "2.2.10",
     "tslib": "1.10.0",
-    "zone.js": "0.10.2"
+    "zone.js": "0.14.4"
   },
   "devDependencies": {
     "@angular/cli": "8.3.1",
-    "@angular/compiler-cli": "8.2.4",
+    "@angular/compiler-cli": "8.2.14",
     "@ngtools/webpack": "8.3.1",
     "@types/chai": "4.2.0",
     "@types/chai-string": "1.4.2",
